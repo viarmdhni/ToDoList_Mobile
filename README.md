@@ -31,14 +31,14 @@ Aplikasi Todo List sederhana yang dibuat menggunakan Flutter untuk mengelola tug
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 #### Form Input Task
-![Add Task](screenshots/add_task_form.png)
-![Add Task](screenshots/task_list.png)
+![Add Task](screenshots/add_task_form.jpg)
+![Add Task](screenshots/task_list.jpg)
 
 #### Task List & Actions
-![Task List](screenshots/task_list_actions.png)
+![Task List](screenshots/task_list_actions.jpg)
 
 #### Konfirmasi Delete
-![Delete Confirmation](screenshots/delete_confirmation.png)
+![Delete Confirmation](screenshots/delete_confirmation.jpg)
 
 </div>
 
