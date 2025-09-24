@@ -1,4 +1,4 @@
-# 📝 Todo App Flutter
+# 📝 ToDoList App
 
 Aplikasi Todo List sederhana yang dibuat menggunakan Flutter untuk mengelola tugas-tugas harian dengan antarmuka yang user-friendly dan fitur yang lengkap.
 
