@@ -42,4 +42,4 @@ Aplikasi Todo List sederhana yang dibuat menggunakan Flutter untuk mengelola tug
 
 </div>
 
-🎉 Dengan ini, kamu punya aplikasi biodata mahasiswa yang rapi dan professional!
+🎉 Dengan ini, kamu punya aplikasi todo list yang rapi dan professional!
