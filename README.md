@@ -1,16 +1,45 @@
-# flutter_application_1
+# 📝 Todo App Flutter
 
-A new Flutter project.
+Aplikasi Todo List sederhana yang dibuat menggunakan Flutter untuk mengelola tugas-tugas harian dengan antarmuka yang user-friendly dan fitur yang lengkap.
 
-## Getting Started
+## 🎯 Fitur Utama
 
-This project is a starting point for a Flutter application.
+- **Tambah Task** - Menambahkan tugas baru dengan validasi input
+- **Hapus Task** - Menghapus tugas dengan konfirmasi dialog
+- **Toggle Status** - Menandai tugas selesai/belum selesai
+- **Validasi Input** - Cek duplikasi, panjang karakter, dan input kosong
+- **Feedback Visual** - SnackBar notifications untuk setiap aksi
+- **UI Responsif** - Tampilan yang clean dan mudah digunakan
+- **Counter Tasks** - Menampilkan jumlah total tugas
+- **Empty State** - Tampilan khusus ketika belum ada tugas
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Teknologi yang Digunakan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework untuk pengembangan aplikasi mobile
+- **Dart**: Bahasa pemrograman
+- **Material Design**: Design system untuk UI/UX
+- **StatefulWidget**: Untuk state management
+- **Custom Model Class**: Task class untuk data structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Tampilan Aplikasi
+
+### Screenshot Utama
+<!-- Ganti dengan screenshot aplikasi Anda -->
+![Todo App Main](screenshots/todolist.jpg)
+
+### Tampilan Fitur
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+#### Form Input Task
+![Add Task](screenshots/add_task_form.png)
+![Add Task](screenshots/task_list.png)
+
+#### Task List & Actions
+![Task List](screenshots/task_list_actions.png)
+
+#### Konfirmasi Delete
+![Delete Confirmation](screenshots/delete_confirmation.png)
+
+</div>
+
+🎉 Dengan ini, kamu punya aplikasi biodata mahasiswa yang rapi dan professional!
